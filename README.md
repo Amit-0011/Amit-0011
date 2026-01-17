@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **MERN**
 
 
-- 📫 How to reach me **info@amitkumardev.tech**
+- 📫 How to reach me: **amitkumardev.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,4 +84,3 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-0011&show_icons=true&locale=en&layout=compact" alt="amit-0011" /></p>
