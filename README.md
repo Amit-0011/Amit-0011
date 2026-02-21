@@ -55,10 +55,10 @@ Full-stack LMS platform with authentication, dashboards, and course management.
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/amitkumar-4t">
+  <a href="https://linkedin.com/in/amitkumar-04t">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://x.com/amitkumar_4t">
+  <a href="https://x.com/amitkumar_04t">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="mailto:amitkumardev.tech@gmail.com">
