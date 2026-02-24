@@ -5,10 +5,15 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building a **Learning Management System (MERN)**
-- 🌱 Strengthening fundamentals in **Data Structures, JavaScript, and Backend Architecture**
-- 🤝 Open to collaborating on serious full-stack projects
-- 📫 Reach me at: **amitkumardev.tech@gmail.com**
+💻 **MERN Stack Developer** focused on building scalable and maintainable web applications  
+
+🧠 Strong foundation in **JavaScript, Data Structures, and Backend Development**  
+
+⚙️ Experienced with **REST APIs, Authentication (JWT), and Database Design**  
+
+📈 Continuously improving through hands-on projects and consistent problem-solving  
+
+📫 Reach me at: **amitkumardev.tech@gmail.com**
 
 ---
 
