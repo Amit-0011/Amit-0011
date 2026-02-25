@@ -46,16 +46,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 📚 Learning Management System
-Full-stack LMS platform with authentication, dashboards, and course management.
-
-**Tech:** React, Redux, Node.js, Express, MongoDB  
-🔗 Live: https://edemy-frontend-eosin.vercel.app
-
----
-
 
 ## 🌐 Connect With Me
 
