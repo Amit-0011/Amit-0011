@@ -13,7 +13,7 @@
 
 📈 Continuously improving through hands-on projects and consistent problem-solving  
 
-📫 Reach me at: **amitkumardev.tech@gmail.com**
+📫 Reach me at: **amitkumar.devv@gmail.com**
 
 ---
 
